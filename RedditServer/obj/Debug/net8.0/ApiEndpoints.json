@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "RedditProxy.Controllers.RedditController",
+    "Method": "RedditGet",
+    "RelativePath": "api/Reddit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "subreddit",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
